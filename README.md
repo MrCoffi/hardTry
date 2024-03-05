@@ -1,2 +1,0 @@
-# hardTry
-Начало жизни hardTry
